@@ -1,1 +1,1 @@
-# stock-analysis
+# Stock Price Prediction for Companies working in the Biotechnology Industry
