@@ -1,6 +1,13 @@
 import numpy as np
 from scipy import stats
 
+durations = {
+        'daily': 1,
+        'weekly': 5,
+        'monthly': 21,
+        'annual': 252
+    }
+
 
 def compute_daily_return(data):
     data['Daily Return'] = data['Adj Close'].pct_change(1)
@@ -9,12 +16,6 @@ def compute_daily_return(data):
 
 
 def compute_sharpe_ratio(data, risk_free_rate=0, duration='daily'):
-    durations = {
-        'daily': 1,
-        'weekly': 5,
-        'monthly': 21,
-        'annual': 252
-    }
     daily_return = compute_daily_return(data)['Daily Return']
     mean_return = daily_return.mean()
     std_return = daily_return.std()
@@ -24,12 +25,6 @@ def compute_sharpe_ratio(data, risk_free_rate=0, duration='daily'):
 
 
 def compute_probabilistic_sharpe_ratio(data, benchmark=0, risk_free_rate=0, duration='daily'):
-    durations = {
-        'daily': 1,
-        'weekly': 5,
-        'monthly': 21,
-        'annual': 252
-    }
     daily_sharpe_ratio = compute_sharpe_ratio(data, risk_free_rate)
     daily_return = compute_daily_return(data)['Daily Return']
     daily_return = np.array(daily_return)
@@ -46,12 +41,6 @@ def compute_probabilistic_sharpe_ratio(data, benchmark=0, risk_free_rate=0, dura
 
 
 def compute_sortino_ratio(data, threshold=0, risk_free_rate=0, duration='daily'):
-    durations = {
-        'daily': 1,
-        'weekly': 5,
-        'monthly': 21,
-        'annual': 252
-    }
     daily_return = compute_daily_return(data)['Daily Return']
     mean_return = daily_return.mean()
     downsides = daily_return[daily_return < threshold]
