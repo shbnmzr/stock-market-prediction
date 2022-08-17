@@ -6,7 +6,7 @@ sns.color_palette("husl", 8)
 
 def plot_feature(data, feature):
     plt.figure(figsize=(16, 8))
-    line_plot = sns.lineplot(x=data.index, y=data[feature])
+    line_plot = sns.lineplot(x=data, y=data[feature])
     line_plot.set_title(f'{feature}', fontdict={'fontsize':16}, pad=16)
 
     plt.show()
