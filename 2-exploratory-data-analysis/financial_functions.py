@@ -1,7 +1,5 @@
 import numpy as np
 from scipy import stats
-import pandas as pd
-import os
 
 durations = {
         'daily': 1,
@@ -20,6 +18,20 @@ def compute_daily_return(data):
     daily_returns = data.pct_change(1)
     daily_returns.dropna(axis=0, inplace=True)
     return daily_returns
+
+
+def compute_change(data):
+    start_date = data.index[0]
+    end_date = data.index[-1]
+
+    change = (data['Adj Close'][end_date] - data['Adj Close'][start_date]) / data['Adj Close'][start_date]
+    return change
+
+
+def compute_percent_change(data):
+    change = compute_change(data)
+    percent_change = change * 100
+    return percent_change
 
 
 def compute_sharpe_ratio(data, risk_free_rate=0, duration='daily'):
@@ -66,20 +78,3 @@ def compute_cumulative_percent_return(data):
     cum_return = compute_cumulative_return(data)
     cum_perc_return = cum_return * 100
     return cum_perc_return
-
-
-def import_all_files(path):
-    companies = {}
-    for file in os.listdir(path):
-        if file.endswith('.csv'):
-            name = file.split('.')[0]
-            companies[name] = pd.read_csv(os.path.join(path, file), index_col='Date', parse_dates=True)
-
-    # data = pd.concat(companies, axis=0)
-    # data = pd.DataFrame(companies)
-    return companies
-
-
-def import_single_file(path, symbol):
-    data = pd.read_csv(os.path.join(path, symbol + '.csv'), index_col='Date', parse_dates=True)
-    return data
