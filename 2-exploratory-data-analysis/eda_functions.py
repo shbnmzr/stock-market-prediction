@@ -37,3 +37,8 @@ def get_correlated_columns(data: pd.DataFrame):
 def drop_correlated_columns(data: pd.DataFrame):
     to_drop = get_correlated_columns(data)
     return data.drop(columns=to_drop)
+
+
+def create_dataframe_from_dict(data, column_name):
+    df = pd.DataFrame.from_dict(data=data, orient='index', columns=[column_name])
+    return df

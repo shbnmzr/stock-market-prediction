@@ -11,6 +11,7 @@ durations = {
 
 def compute_moving_average(data, duration='monthly'):
     moving_average = data.rolling(durations[duration]).mean()
+    moving_average.dropna(axis=0, inplace=True)
     return moving_average
 
 
