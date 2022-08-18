@@ -9,7 +9,9 @@ def import_all_files_as_dict(path):
         if file.endswith('.csv'):
             name = file.split('.')[0]
             companies[name] = pd.read_csv(os.path.join(path, file), index_col='Date', parse_dates=True, skip_blank_lines=True)
-
+            companies[name] = companies[name].dropna(axis=0)
+            if len(companies[name]) == 0:
+                del companies[name]
     return companies
 
 

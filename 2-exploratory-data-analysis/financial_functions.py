@@ -21,10 +21,8 @@ def compute_daily_return(data):
 
 
 def compute_change(data):
-    start_date = data.index[0]
-    end_date = data.index[-1]
-
-    change = (data['Adj Close'][end_date] - data['Adj Close'][start_date]) / data['Adj Close'][start_date]
+    adj_close = data['Adj Close'].copy()
+    change = (adj_close[-1] - adj_close[0]) / adj_close[0]
     return change
 
 
