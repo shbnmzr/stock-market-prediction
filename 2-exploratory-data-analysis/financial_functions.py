@@ -6,7 +6,7 @@ durations = {
         'weekly': 5,
         'monthly': 21,
         'annual': 252
-    }
+}
 
 
 def compute_moving_average(data, duration='monthly'):
