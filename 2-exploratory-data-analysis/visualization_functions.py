@@ -21,6 +21,16 @@ def plot_correlations(data):
     plt.show()
 
 
+def save_correlations(data, path, name):
+    plt.figure(figsize=(16, 8))
+    mask = np.triu(np.ones_like(data.corr(), dtype=bool))
+    heatmap = sns.heatmap(data.corr(), mask=mask, vmin=-1, vmax=1, annot=True, cmap='coolwarm')
+    heatmap.set_title('Correlation Heatmap', fontdict={'fontsize': 16}, pad=16)
+    plt.tight_layout()
+    plt.savefig(f'{path}{name}.png', dpi=300)
+    plt.close()
+
+
 def plot_moving_average(data, duration='monthly'):
     data = compute_moving_average(data, duration)
     plt.figure(figsize=(16, 8))
