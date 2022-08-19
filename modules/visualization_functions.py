@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-from financial_functions import *
+from modules.financial_functions import *
 sns.color_palette("husl", 8)
 
 

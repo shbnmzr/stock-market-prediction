@@ -29,10 +29,10 @@ def get_unretrieved_symbols(symbols, retrieved_symbols):
     return unretrieved
 
 
-def export_to_csv(data, tickers):
+def export_to_csv(data, path, tickers):
     for ticker in tickers:
         df = data[ticker]
-        df.to_csv('../data/historical/' + ticker + '.csv')
+        df.to_csv(path + ticker + '.csv')
     return
 
 
