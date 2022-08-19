@@ -69,7 +69,8 @@ def compute_sortino_ratio(data, threshold=0, risk_free_rate=0, duration='daily')
 
 
 def compute_cumulative_return(data):
-    cum_return = (1 + data).cumprod() - 1
+    daily_return = compute_daily_return(data)
+    cum_return = (1 + daily_return).cumprod() - 1
     return cum_return
 
 
