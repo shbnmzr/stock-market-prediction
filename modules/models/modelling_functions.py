@@ -1,4 +1,7 @@
 import numpy as np
+import os
+
+import pandas as pd
 
 
 def split_train_dev_test(X, y, train_size=0.7, test_size=0.15):
@@ -11,5 +14,18 @@ def split_train_dev_test(X, y, train_size=0.7, test_size=0.15):
 
     return X_train, y_train, X_dev, y_dev, X_test, y_test
 
-def check_balance(X, y):
-    pass
+
+def export_predictions(predictions, path):
+    try:
+        os.mkdir(path)
+    except:
+        print('Already Exists')
+    finally:
+        path += '/'
+        for ticker in predictions:
+            indices = [i+1 for i in range(len(predictions[ticker]['True Values']))]
+            indices = pd.Series(indices)
+            df = pd.DataFrame(predictions[ticker], index=indices, columns=['True Values', 'Predictions'])
+            df.to_csv(path + ticker + '.csv')
+
+    return
