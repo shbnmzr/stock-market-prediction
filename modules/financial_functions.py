@@ -5,12 +5,15 @@ durations = {
         'daily': 1,
         'weekly': 5,
         'monthly': 21,
+        'quarterly': 63,
         'annual': 252
 }
 
 
 def compute_moving_average(data, duration='monthly'):
-    moving_average = data.rolling(durations[duration]).mean()
+    moving_average = data.rolling(window=durations[duration],
+                                  center=True,
+                                  min_periods=durations[duration] // 2).mean()
     moving_average.dropna(axis=0, inplace=True)
     return moving_average
 
