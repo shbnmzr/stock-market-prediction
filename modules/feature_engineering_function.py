@@ -15,3 +15,10 @@ def z_score_normalization(X):
 
     normal = (X - me) / sigma
     return normal
+
+
+def min_max_normaliztion(X):
+    min_val = X.min()
+    max_val = X.max()
+    normal = (X - min_val) / (max_val - min_val)
+    return normal
