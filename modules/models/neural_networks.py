@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.python.keras import Sequential
 from tensorflow.python.keras.layers import Dense
-from tensorflow.python.keras.losses import SparseCategoricalCrossentropy
+from tensorflow.python.keras.losses import SparseCategoricalCrossentropy, MeanSquaredError
 from tensorflow.python.keras.regularizers import L2
 
 
