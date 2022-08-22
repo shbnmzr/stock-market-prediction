@@ -1,0 +1,744 @@
+Mean Squared Error for ABEO:
+0.003009666299737527
+Mean Squared Error for ABIO:
+0.00015645427049338584
+Mean Squared Error for ABUS:
+0.005976570944894087
+Mean Squared Error for ACAD:
+0.0074147297469205195
+Mean Squared Error for ACER:
+0.0012247405604965574
+Mean Squared Error for ACHN:
+0.015231965315280238
+Mean Squared Error for ACHV:
+0.0007805607473842914
+Mean Squared Error for ACIU:
+0.003929552483947851
+Mean Squared Error for ACOR:
+0.0035400330433005677
+Mean Squared Error for ACRS:
+0.006224168766525163
+Mean Squared Error for ACST:
+0.001059596990770586
+Mean Squared Error for ADAP:
+0.001499106553511708
+Mean Squared Error for ADIL:
+0.009770660061622175
+Mean Squared Error for ADMA:
+0.003394506436396835
+Mean Squared Error for ADVM:
+0.001098118722633466
+Mean Squared Error for ADXS:
+0.0025198074166891626
+Mean Squared Error for AEZS:
+0.0011604923211576469
+Mean Squared Error for AFMD:
+0.007503640876145909
+Mean Squared Error for AGE:
+0.001729709326511949
+Mean Squared Error for AGEN:
+0.015050191554196698
+Mean Squared Error for AGIO:
+0.012118528332489742
+Mean Squared Error for AGLE:
+0.39184560643594013
+Mean Squared Error for AGTC:
+0.1357930675802255
+Mean Squared Error for AKBA:
+0.0035960082144979276
+Mean Squared Error for AKTX:
+0.0025755578980900355
+Mean Squared Error for ALBO:
+0.052228208561105605
+Mean Squared Error for ALDX:
+0.0201130788951345
+Mean Squared Error for ALKS:
+0.003925076516957145
+Mean Squared Error for ALLK:
+0.0025361486707757347
+Mean Squared Error for ALLO:
+0.055617177325694586
+Mean Squared Error for ALNA:
+0.007644841462399087
+Mean Squared Error for ALNY:
+0.04516982329517969
+Mean Squared Error for ALPN:
+0.021188413796456022
+Mean Squared Error for ALRN:
+0.0019235319089370873
+Mean Squared Error for ALT:
+0.001120086173085104
+Mean Squared Error for AMGN:
+0.01358606365115631
+Mean Squared Error for AMPE:
+0.004341249512085185
+Mean Squared Error for AMRN:
+0.000702714802538446
+Mean Squared Error for ANAB:
+0.001571558920224243
+Mean Squared Error for ANIK:
+0.022237453158792785
+Mean Squared Error for ANIP:
+0.004259491648853312
+Mean Squared Error for APLS:
+0.0206593597432408
+Mean Squared Error for APM:
+0.0004894549279964635
+Mean Squared Error for APTO:
+0.0026703078397858696
+Mean Squared Error for APTX:
+0.004980368312571295
+Mean Squared Error for APVO:
+0.007859552229235234
+Mean Squared Error for AQB:
+0.00241984145295124
+Mean Squared Error for AQST:
+0.002195211556921849
+Mean Squared Error for ARAV:
+0.002480139212608292
+Mean Squared Error for ARCT:
+0.0067489850929970865
+Mean Squared Error for ARDS:
+0.004085485136987807
+Mean Squared Error for ARDX:
+0.0030482704805840028
+Mean Squared Error for ARGX:
+0.009617283035373054
+Mean Squared Error for ARRY:
+0.010080434277972812
+Mean Squared Error for ARVN:
+0.009468006853244698
+Mean Squared Error for ARWR:
+0.006149998473079906
+Mean Squared Error for ASLN:
+0.00047115563019565544
+Mean Squared Error for ASMB:
+0.0016618261966797228
+Mean Squared Error for ASND:
+0.008461789033202898
+Mean Squared Error for ASNS:
+0.05203742192765469
+Mean Squared Error for ATHX:
+0.1769227814318103
+Mean Squared Error for ATNM:
+0.0017768864412155934
+Mean Squared Error for ATNX:
+0.007161986971038045
+Mean Squared Error for ATRA:
+0.005345212388163024
+Mean Squared Error for AUPH:
+0.02112277971127564
+Mean Squared Error for AUTL:
+0.0015710980133953989
+Mean Squared Error for AVDL:
+0.027508567969252492
+Mean Squared Error for AVEO:
+0.0011351715725235346
+Mean Squared Error for AVRO:
+0.0012602508323388492
+Mean Squared Error for AVXL:
+0.01028851773519497
+Mean Squared Error for AXON:
+0.008546818593120467
+Mean Squared Error for AXSM:
+0.00721207438352165
+Mean Squared Error for AYTU:
+0.0006569050160193168
+Mean Squared Error for BCLI:
+0.0026562590019138053
+Mean Squared Error for BCRX:
+0.03130386287490281
+Mean Squared Error for BDSI:
+0.032182792661692904
+Mean Squared Error for BGNE:
+0.014524614052352152
+Mean Squared Error for BHVN:
+0.022100799833028643
+Mean Squared Error for BIIB:
+0.019167092563293193
+Mean Squared Error for BLCM:
+0.0024331200973631887
+Mean Squared Error for BLPH:
+0.0005478145051846238
+Mean Squared Error for BLRX:
+0.0018329700946001467
+Mean Squared Error for BLUE:
+0.005797684828157117
+Mean Squared Error for BMRN:
+0.032410853670908374
+Mean Squared Error for BPMC:
+0.03850340196756658
+Mean Squared Error for BTAI:
+0.0030293259026357568
+Mean Squared Error for BTX:
+0.0029246667222418686
+Mean Squared Error for BVXV:
+0.004191365784666316
+Mean Squared Error for BYSI:
+0.009090187909282834
+Mean Squared Error for CALA:
+0.005870206763540527
+Mean Squared Error for CANF:
+0.00394104065559916
+Mean Squared Error for CAPR:
+0.0017801587399910578
+Mean Squared Error for CARA:
+0.02541119089910116
+Mean Squared Error for CASI:
+0.002777450254312035
+Mean Squared Error for CBAY:
+0.001536628572890397
+Mean Squared Error for CBIO:
+0.010434280082198912
+Mean Squared Error for CCXI:
+0.015607336021677388
+Mean Squared Error for CDMO:
+0.010770831173452722
+Mean Squared Error for CDTX:
+0.0031213212824667312
+Mean Squared Error for CDXC:
+0.004114053431027239
+Mean Squared Error for CDXS:
+0.019944384148757047
+Mean Squared Error for CERS:
+0.029621757621675158
+Mean Squared Error for CFRX:
+0.0038289998408030613
+Mean Squared Error for CGEN:
+0.002065491768402245
+Mean Squared Error for CHRS:
+0.09593056428618872
+Mean Squared Error for CKPT:
+0.004277669499538333
+Mean Squared Error for CLBS:
+0.000835247146554215
+Mean Squared Error for CLDX:
+0.007608824868207146
+Mean Squared Error for CLGN:
+0.01670125578935437
+Mean Squared Error for CLLS:
+0.015248502366980783
+Mean Squared Error for CLRB:
+0.002954281964752779
+Mean Squared Error for CLSD:
+0.002215770859211973
+Mean Squared Error for CLSN:
+0.0008329897015770978
+Mean Squared Error for CLVS:
+0.005523084690917558
+Mean Squared Error for CMRX:
+0.0168883283493288
+Mean Squared Error for CNCE:
+0.0022841058256995485
+Mean Squared Error for CO:
+0.006299282285601291
+Mean Squared Error for COCP:
+0.0005492789927043537
+Mean Squared Error for CORT:
+0.022711454493139195
+Mean Squared Error for CRBP:
+0.003581935519030292
+Mean Squared Error for CRIS:
+0.0026025370885181557
+Mean Squared Error for CRMD:
+0.018687959711953157
+Mean Squared Error for CRNX:
+0.03871538581110948
+Mean Squared Error for CRSP:
+0.006035877324706264
+Mean Squared Error for CRVS:
+0.0014331378029193874
+Mean Squared Error for CSBR:
+0.006394312328505737
+Mean Squared Error for CTIC:
+0.0407149954121099
+Mean Squared Error for CTMX:
+0.004098087969336106
+Mean Squared Error for CTXR:
+0.004633185032582906
+Mean Squared Error for CUE:
+0.004708746871008273
+Mean Squared Error for CVM:
+0.004060587809288855
+Mean Squared Error for CWBR:
+0.0014920701659487565
+Mean Squared Error for CYAD:
+0.004584945105950134
+Mean Squared Error for CYCC:
+0.0026537784335359015
+Mean Squared Error for CYTK:
+0.026131152195932927
+Mean Squared Error for CYTR:
+0.003432125017847372
+Mean Squared Error for DARE:
+0.012811490174534139
+Mean Squared Error for DBVT:
+0.004902572324882772
+Mean Squared Error for DCPH:
+0.00231159106379146
+Mean Squared Error for DERM:
+0.010064587950940193
+Mean Squared Error for DFFN:
+0.0016423564985651594
+Mean Squared Error for DMAC:
+0.002876415341625923
+Mean Squared Error for DNLI:
+0.005889896564395774
+Mean Squared Error for DVAX:
+0.011913457899631318
+Mean Squared Error for EBS:
+0.005382318532522438
+Mean Squared Error for EDIT:
+0.005848145924714103
+Mean Squared Error for EIGR:
+0.12998307336461717
+Mean Squared Error for ELOX:
+0.002383220073788254
+Mean Squared Error for ENOB:
+0.05631604333369274
+Mean Squared Error for ENTA:
+0.014805586747588586
+Mean Squared Error for ENTX:
+0.005453490828026346
+Mean Squared Error for EPZM:
+0.022764321243088585
+Mean Squared Error for EQ:
+0.0022659181536980252
+Mean Squared Error for ERYP:
+0.00234771339536012
+Mean Squared Error for ESPR:
+0.0055456910063180695
+Mean Squared Error for ETON:
+0.03334794706139037
+Mean Squared Error for ETTX:
+0.0011467194686266568
+Mean Squared Error for EVFM:
+0.0060001455116736645
+Mean Squared Error for EVGN:
+0.002995723165620214
+Mean Squared Error for EVLO:
+0.0035845417935356917
+Mean Squared Error for EXEL:
+0.025490560650614592
+Mean Squared Error for EYEN:
+0.0022786932437005116
+Mean Squared Error for EYPT:
+0.006359653805968558
+Mean Squared Error for FATE:
+0.005574666502137551
+Mean Squared Error for FBIO:
+0.003998205698339502
+Mean Squared Error for FENC:
+0.034848989355238405
+Mean Squared Error for FGEN:
+0.007027137090047316
+Mean Squared Error for FIXX:
+0.00433973590318889
+Mean Squared Error for FOLD:
+0.013626308919040148
+Mean Squared Error for FWP:
+0.00973723127467145
+Mean Squared Error for GBT:
+0.02745950781505746
+Mean Squared Error for GERN:
+0.00828962632976957
+Mean Squared Error for GILD:
+0.10807934207730782
+Mean Squared Error for GLMD:
+0.0015024278920298345
+Mean Squared Error for GLPG:
+0.0018531402224553383
+Mean Squared Error for GLYC:
+0.002872158557616217
+Mean Squared Error for GMDA:
+0.004094730767912473
+Mean Squared Error for GNCA:
+0.008175754559204558
+Mean Squared Error for GNPX:
+0.008363050171000199
+Mean Squared Error for GRFS:
+0.13429730686645322
+Mean Squared Error for GRTS:
+0.0016563467504805349
+Mean Squared Error for GTHX:
+0.0031284926220873643
+Mean Squared Error for HALO:
+0.00947602099756945
+Mean Squared Error for IBIO:
+0.0016048259539289422
+Mean Squared Error for ICCC:
+0.027986779905240615
+Mean Squared Error for ICPT:
+0.0028986717782597204
+Mean Squared Error for IDRA:
+0.003019423329349083
+Mean Squared Error for IFRX:
+0.0038199877087815495
+Mean Squared Error for IMGN:
+0.011955378837442644
+Mean Squared Error for IMMP:
+0.02000844698423747
+Mean Squared Error for IMRN:
+0.003497694076081714
+Mean Squared Error for IMV:
+0.009511565334953821
+Mean Squared Error for INCY:
+0.012111509973183368
+Mean Squared Error for INFI:
+0.012854474500775051
+Mean Squared Error for INO:
+0.0024272641658818392
+Mean Squared Error for INSM:
+0.022915913042794472
+Mean Squared Error for INVA:
+0.03462659408033523
+Mean Squared Error for IONS:
+0.0177901422066627
+Mean Squared Error for IOVA:
+0.007674797766287163
+Mean Squared Error for ITCI:
+0.022511611492649953
+Mean Squared Error for ITRM:
+0.0014530978361749851
+Mean Squared Error for JAGX:
+0.0009146438502895609
+Mean Squared Error for JAZZ:
+0.024695813470012092
+Mean Squared Error for JNCE:
+0.0032643187546182216
+Mean Squared Error for KALA:
+0.006370006446473684
+Mean Squared Error for KALV:
+0.006627980302177337
+Mean Squared Error for KMDA:
+0.01075761502406069
+Mean Squared Error for KMPH:
+0.0010126552579843887
+Mean Squared Error for KNSA:
+0.007501977009455653
+Mean Squared Error for KOD:
+0.007641091921176846
+Mean Squared Error for KRYS:
+0.03960649455733536
+Mean Squared Error for KURA:
+0.010013703428842557
+Mean Squared Error for KZIA:
+0.009698690474036237
+Mean Squared Error for KZR:
+0.010883319174284605
+Mean Squared Error for LGND:
+0.00896759366789109
+Mean Squared Error for LIFE:
+0.000844229000922715
+Mean Squared Error for LJPC:
+0.002752759275461877
+Mean Squared Error for LOGC:
+0.0028866097356204596
+Mean Squared Error for LPTX:
+0.003208402008413418
+Mean Squared Error for LQDA:
+0.004327044101494558
+Mean Squared Error for LXRX:
+0.0026861993239728783
+Mean Squared Error for MACK:
+0.0422563405809763
+Mean Squared Error for MBIO:
+0.0022197272652590577
+Mean Squared Error for MBRX:
+0.0005965386639743487
+Mean Squared Error for MCRB:
+0.0021147788378869875
+Mean Squared Error for MDGL:
+0.004231820952012989
+Mean Squared Error for MDWD:
+0.005983299785612895
+Mean Squared Error for MESO:
+0.0036330163932707226
+Mean Squared Error for MGNX:
+0.06051960689345783
+Mean Squared Error for MGTA:
+0.034422226365717075
+Mean Squared Error for MGTX:
+0.014509982890283886
+Mean Squared Error for MNKD:
+0.019436793060705157
+Mean Squared Error for MNOV:
+0.0028415971545874227
+Mean Squared Error for MOR:
+0.07088015602843313
+Mean Squared Error for MRKR:
+0.004024479071198901
+Mean Squared Error for MRNA:
+0.0049246836146732585
+Mean Squared Error for MRNS:
+0.0039007799071623488
+Mean Squared Error for MRSN:
+0.0022122772492178845
+Mean Squared Error for MRTX:
+0.005057566005631317
+Mean Squared Error for MRUS:
+0.04415178703088798
+Mean Squared Error for MTEM:
+0.011139812824729145
+Mean Squared Error for MTNB:
+0.017597805056349197
+Mean Squared Error for MTP:
+0.0005465418862722226
+Mean Squared Error for MYOV:
+0.01679386695459207
+Mean Squared Error for NAVB:
+0.0018162694669647081
+Mean Squared Error for NBIX:
+0.01914119595433141
+Mean Squared Error for NBRV:
+0.00251608755445182
+Mean Squared Error for NBY:
+0.0001808836967685174
+Mean Squared Error for NCNA:
+0.0045084288112520075
+Mean Squared Error for NERV:
+0.003826449129770312
+Mean Squared Error for NKTR:
+0.004208412431269042
+Mean Squared Error for NOVN:
+0.00043289665227536057
+Mean Squared Error for NSTG:
+0.006907764886940417
+Mean Squared Error for NTLA:
+0.011432604603894527
+Mean Squared Error for NVAX:
+0.011243018740325614
+Mean Squared Error for NVIV:
+0.0033154432282767898
+Mean Squared Error for NVO:
+0.013169657577854363
+Mean Squared Error for NYMX:
+0.08837992638691271
+Mean Squared Error for OBSV:
+0.0023572227462713485
+Mean Squared Error for OCUL:
+0.003033218509364168
+Mean Squared Error for OCX:
+0.0030264748537298463
+Mean Squared Error for OGEN:
+0.0009230053464165943
+Mean Squared Error for OMER:
+0.13102026279065224
+Mean Squared Error for ONCS:
+0.001612343478919682
+Mean Squared Error for ONCY:
+0.0014793145002008773
+Mean Squared Error for ONTX:
+0.0009923682990190745
+Mean Squared Error for OPNT:
+0.025628387870712505
+Mean Squared Error for ORGS:
+0.009425547066542427
+Mean Squared Error for ORMP:
+0.014702270364746708
+Mean Squared Error for ORTX:
+0.002675558047120669
+Mean Squared Error for OTIC:
+0.00819587444510304
+Mean Squared Error for OTLK:
+0.0012552043257209576
+Mean Squared Error for OVID:
+0.0010807532722035458
+Mean Squared Error for PBYI:
+0.002651033007567262
+Mean Squared Error for PHAS:
+0.00373326328674799
+Mean Squared Error for PHIO:
+0.007495138030633585
+Mean Squared Error for PIRS:
+0.005094135985773552
+Mean Squared Error for PLX:
+0.001527308916329103
+Mean Squared Error for PLXP:
+0.006283105347891164
+Mean Squared Error for PRQR:
+0.006432197345088535
+Mean Squared Error for PRTA:
+0.007367716705975228
+Mean Squared Error for PRTK:
+0.002431882486062963
+Mean Squared Error for PRVB:
+0.003932183039609335
+Mean Squared Error for PSTI:
+0.0026519527877179004
+Mean Squared Error for PTCT:
+0.016642581819875206
+Mean Squared Error for PTE:
+0.0051235602091727304
+Mean Squared Error for PTGX:
+0.011571849353768364
+Mean Squared Error for PULM:
+0.001139523171854522
+Mean Squared Error for QTRX:
+0.00799507693016591
+Mean Squared Error for QURE:
+0.00483189875337862
+Mean Squared Error for RARE:
+0.008717876371258263
+Mean Squared Error for RCKT:
+0.004689442441364315
+Mean Squared Error for RCUS:
+0.017906396115360868
+Mean Squared Error for RDHL:
+0.2051027076743719
+Mean Squared Error for REGN:
+0.01003221898744945
+Mean Squared Error for REPL:
+0.004598065212510819
+Mean Squared Error for RETA:
+0.006191675337784137
+Mean Squared Error for RFL:
+0.0023127047885660138
+Mean Squared Error for RGEN:
+0.010222841527887907
+Mean Squared Error for RGLS:
+0.0035918531265466368
+Mean Squared Error for RGNX:
+0.007509817191962144
+Mean Squared Error for RIGL:
+0.06050253257361488
+Mean Squared Error for RUBY:
+0.003647932014662105
+Mean Squared Error for RVNC:
+0.010286562704416143
+Mean Squared Error for RYTM:
+0.15929115400859897
+Mean Squared Error for SAGE:
+0.0014189056645286225
+Mean Squared Error for SCPH:
+0.006142901614694232
+Mean Squared Error for SEEL:
+0.0013051700771123504
+Mean Squared Error for SELB:
+0.0019236723769079278
+Mean Squared Error for SESN:
+0.003534388156653696
+Mean Squared Error for SGEN:
+0.0078840440009469
+Mean Squared Error for SGMO:
+0.011250760527825334
+Mean Squared Error for SIGA:
+0.15045541264363446
+Mean Squared Error for SLGL:
+0.031850113130915646
+Mean Squared Error for SLS:
+0.0009588133543270651
+Mean Squared Error for SNDX:
+0.015618277491735904
+Mean Squared Error for SNGX:
+0.003287021867386813
+Mean Squared Error for SPPI:
+0.004031288254894274
+Mean Squared Error for SPRO:
+0.42068573336093557
+Mean Squared Error for SRNE:
+0.0031722909416825244
+Mean Squared Error for SRPT:
+0.005885808786620667
+Mean Squared Error for SRRA:
+0.0031693699246261296
+Mean Squared Error for SRRK:
+0.003890390932048463
+Mean Squared Error for STRO:
+0.00473221070869212
+Mean Squared Error for SURF:
+0.0015790255524218487
+Mean Squared Error for SVA:
+6.0345123944459994e-05
+Mean Squared Error for SVRA:
+0.0003934274642304863
+Mean Squared Error for SYBX:
+0.002230147012916631
+Mean Squared Error for SYN:
+0.002612178387368861
+Mean Squared Error for SYRS:
+0.01415384143295646
+Mean Squared Error for TBPH:
+0.003523220963759601
+Mean Squared Error for TCON:
+0.001985712982347148
+Mean Squared Error for TECH:
+0.008227484147924409
+Mean Squared Error for TENX:
+0.0018303107244825357
+Mean Squared Error for TGTX:
+0.0069958346327113835
+Mean Squared Error for TLSA:
+0.002657696391178364
+Mean Squared Error for TNXP:
+0.002164846042959819
+Mean Squared Error for TRVN:
+0.002915675373829012
+Mean Squared Error for TTNP:
+0.002354330994256788
+Mean Squared Error for TYME:
+0.002167498171252493
+Mean Squared Error for UBX:
+0.004995782444601406
+Mean Squared Error for URGN:
+0.0029520819713740134
+Mean Squared Error for UTHR:
+0.012639760053801347
+Mean Squared Error for VBIV:
+0.006466843478181101
+Mean Squared Error for VBLT:
+0.008014382168944121
+Mean Squared Error for VCEL:
+0.007833112483181399
+Mean Squared Error for VCNX:
+0.002052886649940999
+Mean Squared Error for VCYT:
+0.010297213079017643
+Mean Squared Error for VKTX:
+0.0027393701144091485
+Mean Squared Error for VNDA:
+0.008734348992296371
+Mean Squared Error for VRCA:
+0.22800360592487756
+Mean Squared Error for VRNA:
+0.013398450140609735
+Mean Squared Error for VRTX:
+0.01679031531037392
+Mean Squared Error for VSTM:
+0.0025458513533173494
+Mean Squared Error for VTGN:
+0.017091724409416986
+Mean Squared Error for VTVT:
+0.001159401145104768
+Mean Squared Error for VXRT:
+0.007238912480087598
+Mean Squared Error for VYGR:
+0.004580493955788072
+Mean Squared Error for WVE:
+0.003467479624107723
+Mean Squared Error for XBIO:
+0.00047388235458258195
+Mean Squared Error for XBIT:
+0.006344555422140914
+Mean Squared Error for XENE:
+0.021146397456409588
+Mean Squared Error for XERS:
+0.0015527090065105427
+Mean Squared Error for XNCR:
+0.02327258353010931
+Mean Squared Error for XOMA:
+0.021113481239813634
+Mean Squared Error for XTLB:
+0.010531073837334926
+Mean Squared Error for XXII:
+0.017240434617502933
+Mean Squared Error for YMAB:
+0.019237170024030695
+Mean Squared Error for ZEAL:
+0.007471907195983334
+Mean Squared Error for ZLAB:
+0.00535966200377708
+Mean Squared Error for ZYME:
+0.004032880922191567
+Mean Squared Error for ZYNE:
+0.0018175176812689423
