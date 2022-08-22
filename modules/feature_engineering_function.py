@@ -9,6 +9,13 @@ def create_lag(data, column, lag_number=1):
     return data
 
 
+def create_target(data, column):
+    price = data[column].shift(-1)
+    data['Target'] = price
+    data = data.dropna(axis=0)
+    return data
+
+
 def z_score_normalization(X):
     me = np.mean(X)
     sigma = np.std(X)
