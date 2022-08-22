@@ -1,4 +1,3 @@
-import pandas as pd
 # IEX Cloud Library
 from iexfinance.stocks import get_historical_data
 

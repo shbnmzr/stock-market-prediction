@@ -1,4 +1,3 @@
-import pandas as pd
 import numpy as np
 
 
@@ -24,7 +23,7 @@ def z_score_normalization(X):
     return normal
 
 
-def min_max_normaliztion(X):
+def min_max_normalization(X):
     min_val = X.min()
     max_val = X.max()
     normal = (X - min_val) / (max_val - min_val)
