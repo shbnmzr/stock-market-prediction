@@ -5,7 +5,7 @@ Dr. Nastooh Taheri Javan. As a sophomore student, I was introduced to the exciti
 field of Machine Learning. Ever since then, I have been studying the fundamentals of Python programming,
 Machine Learning, Statistics, and Mathematics hoping to gain deep knowledge. A few of my study materials
 and courses I used during my learning process include Machine Learning Specialization by Stanford University
-and DeepLearning.io, Intro to Machine Learning by Kaggle, Intermediate Machine Learning by Kaggle, and
+and DeepLearning.ai, Intro to Machine Learning by Kaggle, Intermediate Machine Learning by Kaggle, and
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition. Applying the knowledge
 I had gained, I chose this project and have been working on it for some time.
 
